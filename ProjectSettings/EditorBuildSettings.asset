@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 1010107b264595842b0e8b33023e22ff
+  - enabled: 1
+    path: Assets/Scenes/Load.unity
+    guid: 091e75bf144499c4a8573cb8412659bd
+  - enabled: 1
+    path: Assets/Scenes/stage_1.unity
+    guid: f635cd7dfce9d1642857dd343119fb38
+  - enabled: 1
+    path: Assets/Scenes/stage_2.unity
+    guid: 6e20e2b03be1c19498ec497ea6dc2e50
+  - enabled: 1
+    path: Assets/Scenes/stage_3.unity
+    guid: d8b4a221f5fb06244a7798f530b49abc
+  - enabled: 1
+    path: Assets/Scenes/stage_4.unity
+    guid: 81cc9291d8d8b784883ee8dbf494da33
+  - enabled: 1
+    path: Assets/Scenes/stage_5.unity
+    guid: 4ee47d1e8368c9d49b24308a4bdda3e6
+  - enabled: 1
+    path: Assets/Scenes/stage_6.unity
+    guid: 7b6b46f00df0e9649a63b4755468c99e
+  - enabled: 1
+    path: Assets/Scenes/stage_7.unity
+    guid: d7f6d4003755f944ba44acc0e1c7178b
+  - enabled: 1
+    path: Assets/Scenes/stage_8.unity
+    guid: 0436b0f6923c0164d9897d8871983e16
+  - enabled: 1
+    path: Assets/Scenes/stage_9.unity
+    guid: 2c12d130d45dfd04597485cbece1c65f
+  - enabled: 1
+    path: Assets/Scenes/stage_10.unity
+    guid: 46a2cf0885d588f41b7ad1970120ec1d
+  - enabled: 1
+    path: Assets/Scenes/stage_11.unity
+    guid: d8ae77a2e74ac724c8e03abb3c8bcdbe
+  - enabled: 1
+    path: Assets/Scenes/stage_12.unity
+    guid: 7c25e4bf5a1e8e74eaffe08a0db5dc08
+  - enabled: 1
+    path: Assets/Scenes/stage_13.unity
+    guid: 24639a7c5fcf22f4d8992f7184c9eed6
+  - enabled: 1
+    path: Assets/Scenes/stage_14.unity
+    guid: 3432398ab6f64cc48b0d2043c520db7b
+  - enabled: 1
+    path: Assets/Scenes/stage_15.unity
+    guid: 11497625ae7fa284d9dbe672f2739f0f
+  - enabled: 1
+    path: Assets/Scenes/stage_16.unity
+    guid: 620c8236dd932d144ba15da1d84b9115
+  - enabled: 1
+    path: Assets/Scenes/stage_17.unity
+    guid: 1d0aca30fbebde5428057da70fca95f8
+  - enabled: 1
+    path: Assets/Scenes/stage_18.unity
+    guid: 72d8661e128ffb742825ce1b856f69a8
+  - enabled: 1
+    path: Assets/Scenes/stage_19.unity
+    guid: e88b170c9e6e2d9448f2bbf8ec5a4303
+  - enabled: 1
+    path: Assets/Scenes/stage_20.unity
+    guid: 4df31c80a9f690544832e42aa6bdf551
+  - enabled: 1
+    path: Assets/Scenes/player.unity
+    guid: c9aa54fb561c71b4496bd524af786463
+  - enabled: 1
+    path: Assets/Scenes/PlayerChoice.unity
+    guid: 3613b67d98d19f841a6309f170531bd4
+  - enabled: 1
+    path: Assets/Scenes/CharecterChoice.unity
+    guid: 04fd51a7e07ce5a4ca16292e3e4e4635

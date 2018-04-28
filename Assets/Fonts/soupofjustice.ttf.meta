@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 42bf5c2f67ad2624fac0a8b8bb3e3f2d
+timeCreated: 1515781837
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Soup of Justice
+  fontNames:
+  - Soup of Justice
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

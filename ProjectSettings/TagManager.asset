@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - g_off
+  - insignia
+  - obstaculo
+  - Player1
+  - Player2
+  - Barrel
+  - Box
+  - barreira_1
+  - barreira_2
+  - barreira_3
+  - Box1
+  - divisor
+  - explosao
+  - enemy
+  - floor
+  - side_box
+  - msg_win
+  - portal
+  - bullet_enemy
+  - music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - piso
+  - caixa
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: nivel 0
+    uniqueID: 3344518743
+    locked: 0
+  - name: nivel 1
+    uniqueID: 1942802895
+    locked: 0
+  - name: nivel 2
+    uniqueID: 1933957151
+    locked: 0
+  - name: nivel 3
+    uniqueID: 1767335779
+    locked: 0
+  - name: nivel 4
+    uniqueID: 317422025
+    locked: 0
+  - name: nivl 5
+    uniqueID: 3657601451
+    locked: 0
